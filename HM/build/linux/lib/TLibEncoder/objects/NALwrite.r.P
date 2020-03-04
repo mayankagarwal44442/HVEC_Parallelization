@@ -1,0 +1,15 @@
+objects/NALwrite.r.o: \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :

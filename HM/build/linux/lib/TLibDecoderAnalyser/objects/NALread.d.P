@@ -1,0 +1,27 @@
+objects/NALread.d.o: \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.cpp :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibDecoder/NALread.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComCodingStatistics.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoderAnalyser/../../../../source/Lib/TLibCommon/Debug.h :

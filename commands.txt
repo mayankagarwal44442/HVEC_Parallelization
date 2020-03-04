@@ -1,0 +1,19 @@
+
+make HM/build/linux/makefile
+
+./HM/bin/TAppEncoderStatic -c test.cfg -i Sample_files/sample.yuv
+(Source of cfg file: https://codesequoia.wordpress.com/2012/11/04/make-your-first-hevc-stream/. Minor changes were made on the configuration file)
+
+Output present in mobile.yuv (decoded automatically or you could use ./HM/bin/TAppDeccoderStatic -b mobile.hevc -o mobile.yuv to generate explicitly)
+
+To view mobile.yuv using vlc:
+vlc  --rawvid-fps 25 --rawvid-width 640 --rawvid-height 360 --rawvid-chroma I420 mobile.yuv
+(Source: https://stackoverflow.com/questions/20882375/playing-yuv-on-vlc-player. 
+
+Height and width were found out using 
+ffprobe -v quiet -print_format json -show_format -show_streams sample.mp4. 
+Source: https://stackoverflow.com/questions/684015/how-can-i-get-the-resolution-width-and-height-for-a-video-file-from-a-linux-co
+)
+
+
+

@@ -1,0 +1,15 @@
+objects/NALread.r.o: \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.cpp \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/NAL.h
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.cpp :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/mayank/Documents/Academics/Sem_6/HP/Project/HVEC_Parallelization/HM/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/NAL.h :
